@@ -1,4 +1,3 @@
-import { type Server } from "node:http";
 import express, {
   type Express,
   type Request,
